@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Guidelines
 tagline:          Notes on making CS notes
 description:      "A set of notes for making notes on CS through the year."
-url:              https://github.com/gu-cs-notes/Guidelines
-baseurl:          /Guidelines
+url:              https://github.com/gu-cs-notes/AI4
+baseurl:          /AI4
 
 author:
   name:           'Tom Wallis'
@@ -23,7 +23,7 @@ paginate:         5
 version:          0.0.1
 
 github:
-  repo:           https:/github.com/gu-cs-notes/Guidelines
+  repo:           https:/github.com/gu-cs-notes/AI4
 
-originalgithub:
+themegithub:
   repo:           https://github.com/karloespiritu/blackdoc
