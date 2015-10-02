@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Guidelines
+tagline:          Notes on making CS notes
+description:      "A set of notes for making notes on CS through the year."
+url:              https://github.com/gu-cs-notes/Guidelines
+baseurl:          /Guidelines
+
+author:
+  name:           'Tom Wallis'
+  url:            https://tomwallis.net
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https:/github.com/gu-cs-notes/Guidelines
+
+originalgithub:
+  repo:           https://github.com/karloespiritu/blackdoc
